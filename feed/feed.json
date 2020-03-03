@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Post title",
+    "body": "This is my first post!",
+    "component": "Post"
+  },
+  {
+    "title": "First image",
+    "url": "http://localhost:2000/puppy.jpg",
+    "component": "Image"
+  },
+  {
+    "title": "Woohoo!",
+    "body": "This is my second post!",
+    "component": "Post"
+  }
+]
